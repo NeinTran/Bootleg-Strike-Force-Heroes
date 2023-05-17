@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DamageText : MonoBehaviour
 {
-    public float DestroyTime = 0.2f;
+    public float DestroyTime = 0.3f;
     public Vector3 Offset = new Vector3(0,2,0);
     // Start is called before the first frame update
     void Start()
